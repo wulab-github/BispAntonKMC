@@ -1,0 +1,30 @@
+ cell_range_x,cell_range_y,cell_range_z   1000.0000000000000        1000.0000000000000        250.00000000000000     
+ time_step  9.99999971718068537E-010
+ distance_step   1.0000000000000000     
+ TCR_radius   4.0000000000000000      TCR_D   10000000.000000000     
+ TCR_rot_D  0.25000000000000000     
+ CD_radius   4.0000000000000000      CD_D   10000000.000000000     
+ CD_rot_D  0.25000000000000000     
+ MHC_radius   4.0000000000000000     
+ B7_radius   4.0000000000000000     
+ Plm_radius,Plm_D   6.5999999046325684        67000000.000000000     
+ Plm_rot_D  0.25000000000000000     
+ complex_D   5000000.0000000000     
+ Complex_rot_D  0.10000000149011612     
+ Plm_Flx_TlRg   0.0000000000000000     
+ Plm_Flx_RtRg   0.0000000000000000     
+ Ass_Rate_TM   35000000.000000000     
+ Ass_Rate_CB   30000000.000000000     
+ BindingAffinity_TM  -13.000000000000000     
+ BindingAffinity_CB  -12.000000000000000     
+ TCR_tot_num         300
+ CD_tot_num         300
+ Plm_tot_num         300
+ Plm_MHC_num           1
+ Plm_B7_num           1
+ bond_dist_cutoff_TM   2.0000000000000000     
+ bond_thetapd_TM,bond_thetapd_cutoff_TM   180.00000000000000        30.000000000000000     
+ bond_thetaot_TM,bond_thetaot_cutoff_TM   90.000000000000000        30.000000000000000     
+ bond_dist_cutoff_CB   1.5000000000000000     
+ bond_thetapd_CB,bond_thetapd_cutoff_CB   180.00000000000000        30.000000000000000     
+ bond_thetaot_CB,bond_thetaot_cutoff_CB   90.000000000000000        30.000000000000000     
