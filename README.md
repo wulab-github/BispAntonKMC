@@ -27,9 +27,9 @@ They are listed as follows:
     2: sub_rot_along_axis.f   >>>>  the subroutine for 2D rotation of cell surface proteins along the membrane normal
     
 
-This program also provide the compiled excutable file: BispRBKMC
+This program also provides the compiled excutable file: BispRBKMC
 
-An sample output from the program is also provided:    
+The outputs from the program is also provided, using the linker GS15 as a test system:    
 
     1: BispRBKMCresult_simupara_SamplTry_TgCel_GS15_PDWT0.txt  >>>>  the list of all the simulation parameters including the diffusion constants, binding rates and concentration
     
@@ -37,7 +37,9 @@ An sample output from the program is also provided:
     
     3: BispRBKMCresult_trj_SamplTry_TgCel_GS15_PDWT0.pdb   >>>> the snapshots from the simulation with the PDB format
     
-The format of the output file with the records of interactions are shown as:
+In order to test other linker systems, one need to change the input files in the source codes.
+    
+The format of the output file with the records of interactions is shown as following:
 
          100     0     0     0
          200     0     0     0
